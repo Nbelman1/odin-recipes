@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif
+}
+
+.dark-purple-bg {
+    background-color: rgb(39, 4, 99);
+    color: aqua;
+    text-align: center;
+}
+
+.green-bg {
+    background-color: rgb(9, 71, 5);
+    color: rgb(227, 14, 14);
+}
+
+.Drake {
+    height: 150px;
+    width: auto;
+}
+
+.img-resize {
+    height: 300px;
+    width: auto;
+}
+
+.purple-bg {
+    background-color: blueviolet;
+    color: aqua; 
+}
+
+.blue-text {
+    color: rgb(4, 64, 99);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.brown-bg {
+    color: rgb(94, 44, 6);
+    background-color: rgb(201, 168, 143);
+}
+
+.green-text {
+    color: rgb(6, 64, 39);
+}
+
+.yellow-bg {
+    background-color: rgb(179, 153, 23);
+    color: rgb(8, 128, 24);
+}
+
+.beige-bg {
+    background-color: rgb(94, 44, 6);
+    color: white;
+}
+
+.light-green-text {
+    color: rgb(8, 128, 24);
+}
+
+.beige-bg-red {
+    background-color: rgb(201, 168, 143);
+    color: rgb(186, 11, 11);
+}
+
+.green-bg-orange {
+    background-color:rgb(9, 71, 5);
+    color:rgb(184, 88, 9);
+}
+
+.brown-text {
+    color:rgb(94, 44, 6)
+}
+
+.font-tnr {
+    font-family: "Times New Roman", sans-serif
+}
